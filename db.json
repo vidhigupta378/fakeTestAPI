@@ -1,5 +1,5 @@
 {
-    "egift": [
+    "egift": 
         {
             "status": {
                 "statusCode": 0,
@@ -12,5 +12,4 @@
             "walletType": "AJIO Wallet"
           }
        
-    ]
 }
