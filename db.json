@@ -6,7 +6,7 @@
                 "errorCode":"4002",
                 "messageDescription":"Some message Description"
             },
-            "amount": 1000,
+            "amount": 5000,
             "expiryDate": 1651257000000,
             "isGiftcardLive": true,
             "walletType": "AJIO Wallet"
