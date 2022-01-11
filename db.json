@@ -1,15 +1,10 @@
 {
-    "egift": 
+    "vivi": 
         {
-            "status": {
-                "statusCode": 0,
-                "errorCode":"4002",
-                "messageDescription":"Some message Description"
-            },
-            "amount": 5000,
-            "expiryDate": 1651257000000,
-            "isGiftcardLive": true,
-            "walletType": "Random Wallet"
+            "name": "xyz",
+            "subscriptions": 5000,
+            
+            
           }
        
 }
